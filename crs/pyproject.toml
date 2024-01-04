@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "crs-winter-school-2024"
+version = "0.1.0"
+description = ""
+authors = ["Angelo Pio Rossi"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "*"
+pyproj = "^3.6.0"
+cartopy = "*"
+geopandas = "*"
+matplotlib = "*"
+owslib = "*"
+ipyleaflet = "*"
+planetary-coverage = "*"
+pyvista = "*"
+pykdtree = "*"
+
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "*"
+ipykernel = "*"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

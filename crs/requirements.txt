@@ -1,0 +1,11 @@
+cartopy
+geopandas
+ipyleaflet
+matplotlib
+owslib
+pandas
+planetary-coverage
+pykdtree
+pyproj >= 3.6
+python
+pyvista
