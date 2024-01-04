@@ -1,6 +1,6 @@
 # 2023 GMAP Winter School - CRS data sources
 
-See also related presentatipn content at https://aprossi.eu/content/crs2024. Specific sources for each slide are also linked from there.
+See also related presentation content at https://aprossi.eu/content/crs2024. Specific sources for each slide are also linked from there.
 
 ## Ganymede raster
 Exemplary global Ganymede
@@ -85,7 +85,7 @@ All from PDS Small Bodies Node tool - https://sbn.psi.edu/pds/shape-models/, but
 
 ## References
 
-Relevant referemces for the data mentioned above:
+Relevant references for the data mentioned above:
 
 Fortezzo, C.M., Spudis, P. D. and Harrel, S. L. (2020) Release of the Digital Unified Global Geologic Map of the Moon At 1:5,000,000- Scale. Paper presented at the 51st Lunar and Planetary Science Conference, Lunar and Planetary Institute, Houston, TX. https://www.hou.usra.edu/meetings/lpsc2020/pdf/2760.pdf
 
