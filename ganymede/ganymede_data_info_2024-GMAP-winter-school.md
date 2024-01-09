@@ -5,13 +5,13 @@ Raster data from USGS Astrogeology, see references below, derived from:
 https://astrogeology.usgs.gov/search/map/Ganymede/Voyager-Galileo/Ganymede_Voyager_GalileoSSI_global_mosaic_1km
 
 
-# Data package availability 
+## Data package availability 
 
-# Coordinate Reference Systme (CRS)
+## Coordinate Reference Systme (CRS)
 
-# Layers 
+## Layers 
 
-# References
+## References
 
 Batson, R. M. (1984). Voyager 1 and 2 Atlas of Six Saturnian Satellites (NASA-SP-474). Washington, DC: National Aeronautics and Space Administration (NASA). https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19840027171.pdf
 
