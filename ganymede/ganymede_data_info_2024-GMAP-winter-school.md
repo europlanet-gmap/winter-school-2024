@@ -1,13 +1,64 @@
-# 2024 GMAP Winter School - Ganymede data sources
+# 2024 GMAP Winter School - Ganymede basemap data sources
 
 Raster data from USGS Astrogeology, see references below, derived from:
 
-https://astrogeology.usgs.gov/search/map/Ganymede/Voyager-Galileo/Ganymede_Voyager_GalileoSSI_global_mosaic_1km
+## Original acess URL
 
+https://astrogeology.usgs.gov/search/map/Ganymede/Voyager-Galileo/Ganymede_Voyager_GalileoSSI_global_mosaic_1km
 
 ## Data package availability 
 
+Zenodo link TBA
+
 ## Coordinate Reference Systme (CRS)
+
+Please note that the CRS below might not be following IAU, see also original source link and [CRS](https://github.com/europlanet-gmap/winter-school-2024/tree/main/crs)
+
+* Longitude: 0-360
+* Positive East (as common on Dekstop GIS)
+
+### Proj4 CRS (same as source:
+
+```
++proj=eqc +lat_ts=0 +lat_0=0 +lon_0=180 +x_0=0 +y_0=0 +R=2632344.9707 +units=m +no_defs
+```
+### WKT CRS
+
+```
+PROJCRS["SimpleCylindrical Ganymede",
+    BASEGEOGCRS["GCS_Ganymede",
+        DATUM["D_Ganymede",
+            ELLIPSOID["Ganymede",2632344.9707,0,
+                LENGTHUNIT["metre",1,
+                    ID["EPSG",9001]]]],
+        PRIMEM["Reference_Meridian",0,
+            ANGLEUNIT["degree",0.0174532925199433,
+                ID["EPSG",9122]]]],
+    CONVERSION["Equidistant Cylindrical",
+        METHOD["Equidistant Cylindrical",
+            ID["EPSG",1028]],
+        PARAMETER["Latitude of 1st standard parallel",0,
+            ANGLEUNIT["degree",0.0174532925199433],
+            ID["EPSG",8823]],
+        PARAMETER["Longitude of natural origin",180,
+            ANGLEUNIT["degree",0.0174532925199433],
+            ID["EPSG",8802]],
+        PARAMETER["False easting",0,
+            LENGTHUNIT["metre",1],
+            ID["EPSG",8806]],
+        PARAMETER["False northing",0,
+            LENGTHUNIT["metre",1],
+            ID["EPSG",8807]]],
+    CS[Cartesian,2],
+        AXIS["easting",east,
+            ORDER[1],
+            LENGTHUNIT["metre",1,
+                ID["EPSG",9001]]],
+        AXIS["northing",north,
+            ORDER[2],
+            LENGTHUNIT["metre",1,
+                ID["EPSG",9001]]]]
+```
 
 ## Layers 
 
