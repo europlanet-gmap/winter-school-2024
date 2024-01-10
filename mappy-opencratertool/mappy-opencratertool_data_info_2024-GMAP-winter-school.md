@@ -1,4 +1,4 @@
-# 2024 GMAP Winter School - Moon basemap data sources (for Mappy and OpenCratertool)
+xx# 2024 GMAP Winter School - Moon basemap data sources (for Mappy and OpenCratertool)
 
 Raster data from USGS Astrogeology, see references below, derived from:
 
@@ -46,13 +46,19 @@ https://astrogeology.usgs.gov/search/map/Moon/LRO/LROC_WAC/Lunar_LRO_LROC-WAC_Mo
 
 - Sato, H., Robinson, M. S., Hapke, B., Denevi, B. W., & Boyd, A. K. (2104). Resolved Hapke parameter maps of the Moon. Journal of Geophysical Research: Planets, 119, 1775-1805. https://doi.org/10.1002/2013JE004580
 
-### LROC WAC Mosaic
+### LOLA and Kaguya TC merged DEM 60N-60S 59m/pixel
 
 #### Layer access URL
 
-https://astrogeology.usgs.gov/search/map/Moon/LRO/LROC_WAC/Lunar_LRO_LROC-WAC_Mosaic_global_100m_June2013
+https://astrogeology.usgs.gov/search/map/Moon/LRO/LOLA/Lunar_LRO_LOLAKaguya_DEMmerge_60N60S_512ppd
 
 #### References
+
+- Barker, M. K., Mazarico, E., Neumann, G. A., Zuber, M. T., Haruyama, J., & Smith, D. E. (2016). A new lunar digital elevation model from the Lunar Orbiter Laser Altimeter and SELENE Terrain Camera. Icarus, 273, 346–355. https://doi.org/10.1016/j.icarus.2015.07.039
+
+- Haruyama, J., Matsunaga, T., Ohtake, M., Morota, T., Honda, C., Yokota, Y., Torii, M., Ogawa, Y., & LISM Working Group (2008). Global lunar-surface mapping experiment using the Lunar Imager/Spectrometer on SELENE. Earth Planets Space, 60, 243-255. https://doi.org/10.1186/BF03352788
+
+
 
 
 ## References
