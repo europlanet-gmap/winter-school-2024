@@ -1,4 +1,4 @@
-xx# 2024 GMAP Winter School - Moon basemap data sources (for Mappy and OpenCratertool)
+# 2024 GMAP Winter School - Moon basemap data sources (for Mappy and OpenCratertool)
 
 Raster data from USGS Astrogeology, see references below, derived from:
 
