@@ -4,7 +4,7 @@ Raster data from USGS Astrogeology, see references below, derived from:
 
 ## Original acess URL
 
-TBA
+See Layers below.
 
 ## Data package availability 
 
@@ -29,5 +29,30 @@ TBA
 ```
 
 ## Layers 
+
+### LROC WAC Mosaic
+
+#### Layer access URL
+
+https://astrogeology.usgs.gov/search/map/Moon/LRO/LROC_WAC/Lunar_LRO_LROC-WAC_Mosaic_global_100m_June2013
+
+#### References
+
+- Speyerer, E. J., Robinson, M. S., Denevi, B. W., & LROC Science Team (2011). Lunar Reconnaissance Orbiter Camera global morphological map of the Moon. Paper presented at the 42nd Lunar Planetary Science Conference, Lunar and Planetary Science Institute, Houston, TX. https://www.lpi.usra.edu/meetings/lpsc2011/pdf/2387.pdf
+
+- Robinson, M. S., Brylow, S. M., Humm, D., Lawrence, S. J., Thomas, P. C., Denevi, B. W., Bowman-Cisneros, E., et al. (2010). Lunar Reconnaissance Orbiter Camera (LROC) instrument overview. Space Science Review, 150(1), 81–124. https://doi.org/10.1007/s11214-010-9634-2
+
+- Wagner, R. V., Speyerer, E. J., Robinson, M. S., & LROC Team (2015). New Mosaicked Data Products from the LROC Team. Paper presented at the 46th Lunar and Planetary Science Conference, Lunar and Planetary Institute, Houston, TX. https://www.hou.usra.edu/meetings/lpsc2015/pdf/1473.pdf Eposter: http://www.lpi.usra.edu/meetings/lpsc2015/eposter/1473.pdf
+
+- Sato, H., Robinson, M. S., Hapke, B., Denevi, B. W., & Boyd, A. K. (2104). Resolved Hapke parameter maps of the Moon. Journal of Geophysical Research: Planets, 119, 1775-1805. https://doi.org/10.1002/2013JE004580
+
+### LROC WAC Mosaic
+
+#### Layer access URL
+
+https://astrogeology.usgs.gov/search/map/Moon/LRO/LROC_WAC/Lunar_LRO_LROC-WAC_Mosaic_global_100m_June2013
+
+#### References
+
 
 ## References
