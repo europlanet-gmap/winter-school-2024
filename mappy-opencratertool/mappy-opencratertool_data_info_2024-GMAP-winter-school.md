@@ -20,12 +20,44 @@ Please note that the CRS below might not be following IAU, see also original sou
 ### Proj4 CRS (same as source:
 
 ```
-TBA
++proj=eqc +lat_ts=0 +lat_0=0 +lon_0=0 +x_0=0 +y_0=0 +R=1737400 +units=m +no_defs +type=crs
 ```
 ### WKT CRS
 
 ```
-TBA
+PROJCRS["unknown",
+    BASEGEOGCRS["unknown",
+        DATUM["unknown",
+            ELLIPSOID["unknown",1737400,0,
+                LENGTHUNIT["metre",1,
+                    ID["EPSG",9001]]]],
+        PRIMEM["Reference meridian",0,
+            ANGLEUNIT["degree",0.0174532925199433,
+                ID["EPSG",9122]]]],
+    CONVERSION["unknown",
+        METHOD["Equidistant Cylindrical (Spherical)",
+            ID["EPSG",1029]],
+        PARAMETER["Latitude of 1st standard parallel",0,
+            ANGLEUNIT["degree",0.0174532925199433],
+            ID["EPSG",8823]],
+        PARAMETER["Longitude of natural origin",0,
+            ANGLEUNIT["degree",0.0174532925199433],
+            ID["EPSG",8802]],
+        PARAMETER["False easting",0,
+            LENGTHUNIT["metre",1],
+            ID["EPSG",8806]],
+        PARAMETER["False northing",0,
+            LENGTHUNIT["metre",1],
+            ID["EPSG",8807]]],
+    CS[Cartesian,2],
+        AXIS["(E)",east,
+            ORDER[1],
+            LENGTHUNIT["metre",1,
+                ID["EPSG",9001]]],
+        AXIS["(N)",north,
+            ORDER[2],
+            LENGTHUNIT["metre",1,
+                ID["EPSG",9001]]]]
 ```
 
 ## Layers 
