@@ -58,7 +58,16 @@ https://astrogeology.usgs.gov/search/map/Moon/LRO/LOLA/Lunar_LRO_LOLAKaguya_DEMm
 
 - Haruyama, J., Matsunaga, T., Ohtake, M., Morota, T., Honda, C., Yokota, Y., Torii, M., Ogawa, Y., & LISM Working Group (2008). Global lunar-surface mapping experiment using the Lunar Imager/Spectrometer on SELENE. Earth Planets Space, 60, 243-255. https://doi.org/10.1186/BF03352788
 
+### Clementine UVVIS Warped Color Ratio Mosaic 200m v1
 
+#### Layer access URL
 
+https://planetarymaps.usgs.gov/mosaic/Lunar_Clementine_UVVIS_Warp_ClrRatio_Global_200m.tif
 
-## References
+#### References
+
+- Lucey, P. G., Blewett, D. T., Taylor, G. J., & Hawke, B. R. (2000). Imaging of lunar surface maturity. Journal of Geophysical Research: Planets, 105(E8). https://doi.org/10.1029/1999JE001110
+
+- McEwen, A. S., & Robinson, M. S. (1997). Mapping of the Moon by Clementine. Advances in Space Research, 19(10), 1523-1533. https://doi.org/10.1016/S0273-1177(97)00365-7
+
+- Nozette, S., Rustan, P., Pleasance, L. P., Kordas, J. F., Lewis, I. T., Park, H. S., Priest, R. E., et al. (1994). The Clementine Mission to the Moon: Scientific Overview. Science, 266(5192), 1835-1839. https://www.doi.org/10.1126/science.266.5192.1835
