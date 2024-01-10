@@ -8,7 +8,7 @@ See Layers below.
 
 ## Data package availability 
 
-Zenodo link TBA
+Iqbal, W., & Heyer, T. (2024). GMAP Winter School 2024 OpenCraterTool Exercise [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10477755
 
 ## Coordinate Reference Systme (CRS)
 
