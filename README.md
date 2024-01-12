@@ -3,7 +3,7 @@
 
 This is the companion repository for the 2024 GMAP Winter School (https://www.planetarymapping.eu). It contains materials, documents, references, and internet resources relevant to the school activity. 
 
-Data are provided separately via Zendo deposits, linked from this repo and from the above school home page.
+Data are provided separately via Zenodo deposits, linked from this repo and from the above school home page.
 
 ## Content of the repo
 
@@ -16,12 +16,23 @@ Materials are divided by topic/block with descriptive names:
 - Venus - on [venus](venus/README.md)
 - Ganymede - on [ganymede](ganymede/README.md)
 
-
 ## Agenda
 
 The timetable of the school is available at:
 
 https://www.planetarymapping.eu
+
+## Donaloads
+
+### Software download 
+
+* QGIS (https://www.qgis.org),
+  * Mappy QGIS plugin - https://plugins.qgis.org/plugins/mappy/
+  * OpenCraterTool QGIS plugin - https://plugins.qgis.org/plugins/opencratertool/ 
+
+### Data download
+
+TBA
 
 ## Additional resources
 
