@@ -31,5 +31,5 @@ https://www.planetarymapping.eu
 
 <sup>[Europlanet H2024 RI](https://www.europlanet-society.org/europlanet-2024-ri/) has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 871149. </sup>
 
-<sup>Banner image derived from ESA / MEX / HRSC / DLR / FU Berlin / [USGS](https://pubs.usgs.gov/sim/3292/) / [Aster Cowart](https://www.flickr.com/photos/132160802@N06/). </sup>
+<sup>Banner image derived from [Collins et al. (2013)](https://pubs.usgs.gov/sim/3237/) / [NASA Voyager / Galileo SSI / USGS](https://astrogeology.usgs.gov/search/map/Ganymede/Voyager-Galileo/Ganymede_Voyager_GalileoSSI_Global_ClrMosaic_1435m) / homepage imges from [Aster Cowart](https://www.flickr.com/photos/132160802@N06/). </sup>
 
