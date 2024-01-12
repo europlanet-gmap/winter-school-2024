@@ -30,10 +30,12 @@ https://www.planetarymapping.eu
   * Mappy QGIS plugin - https://plugins.qgis.org/plugins/mappy/
   * OpenCraterTool QGIS plugin - https://plugins.qgis.org/plugins/opencratertool/ 
 
-### Data download
+### Data downloads
 
-TBA
-
+* Vesta map package - https://zenodo.org/doi/10.5281/zenodo.10489225
+* Venus map package -
+* Ganymede map package -
+  
 ## Additional resources
 
 - https://github.com/europlanet-gmap/awesome-planetary-geology
