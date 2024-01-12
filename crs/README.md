@@ -1,6 +1,6 @@
 # CRS @ 2024 GMAP Winter School
 
-See also related presentatipn content at [https://aprossi.eu/content/crs2024](https://aprossi.eu/content/crs2024). Static version (pdf) available at: [https://zenodo.org/records/10275887](https://zenodo.org/records/10275887).
+See also related presentatipn content at [https://aprossi.eu/content/crs2024](https://aprossi.eu/content/crs2024). Static version (pdf) available at: https://zenodo.org/doi/10.5281/zenodo.10275886.
 
 Info on data used for the Coordinate Reference System (CRS) [intro on CRS data info](crs_data_info_2024-GMAP-winter-school.md)
 
