@@ -6,7 +6,7 @@ TBA
 TBA 
 ## Data package availability 
 
-Zenodo link TBA
+Zenodo link - https://zenodo.org/doi/10.5281/zenodo.10489225
 
 ## Coordinate Reference Systme (CRS)
 
