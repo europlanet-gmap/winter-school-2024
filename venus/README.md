@@ -1,5 +1,9 @@
 # Venus
 
+The hands-on will be based on a pre-produced QGIS project. Data layers are described in [Venus data info](venus_data_info_2024-GMAP-winter-school.md)
+
+Relevant references are included below.
+
 # Useful methodologic references
 
 Ford, J. P., Plaut. J. J., Weitz, C. M., Farr, T. G., Senske, D. A., Stofan, E. R., Michaels, G., Parker, T. J.  (1993) Guide to Magellan Image Interpretation,  Jet Propulsion Laboratory, California Institute of Technology, JPL Publication 93-24, - available online at https://ntrs.nasa.gov/api/citations/19940013181/downloads/19940013181.pdf
