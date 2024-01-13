@@ -20,7 +20,7 @@ Materials are divided by topic/block with descriptive names:
 
 The timetable of the school is available at:
 
-https://www.planetarymapping.eu
+[https://www.planetarymapping.eu](https://www.planetarymapping.eu/425/program.html)
 
 ## Donaloads
 
