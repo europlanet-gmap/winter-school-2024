@@ -15,6 +15,7 @@ Materials are divided by topic/block with descriptive names:
 - Vesta - on [vesta](vesta/README.md)
 - Venus - on [venus](venus/README.md)
 - Ganymede - on [ganymede](ganymede/README.md)
+- Small (irregular) bodies - on [small-bodies](small-bodies/README.md)
 
 ## Agenda
 
