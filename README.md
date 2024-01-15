@@ -36,7 +36,8 @@ The timetable of the school is available at:
 * Vesta map package - https://zenodo.org/doi/10.5281/zenodo.10489225
 * Venus map package -
 * Ganymede map package -
-  
+* (OPTIONAL) small (irregular) bodies map package - 
+ 
 ## Additional resources
 
 - https://github.com/europlanet-gmap/awesome-planetary-geology
