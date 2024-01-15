@@ -41,7 +41,7 @@ The timetable of the school is available at:
 ## Additional resources
 
 - https://github.com/europlanet-gmap/awesome-planetary-geology
-  
+- 2023 GMAP Winter School repository - https://github.com/europlanet-gmap/winter-school-2023
 --- 
 
 <sup>[Europlanet H2024 RI](https://www.europlanet-society.org/europlanet-2024-ri/) has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 871149. </sup>
