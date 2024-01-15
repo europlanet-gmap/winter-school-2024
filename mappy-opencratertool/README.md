@@ -1,3 +1,4 @@
+Data for both Mappy and OpenCraterTool hands-on are described in [nappy-opencratertool data info](mappy-opencratertool_data_info_2024-GMAP-winter-school.md)
 # Mappy
 
 Please refer to the documentation on https://mappy.readthedocs.io/en/master/ 
