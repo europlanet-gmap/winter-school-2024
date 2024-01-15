@@ -116,6 +116,60 @@ when assuming a reference emissivity.
  as shown in the screenshot below. The result will be a new generated
  raster with the scaled values of emissivity.
 
+![raster_calculator](images/raster_calculator.png)
+
+ -  Mapping of the principal areas showing high emissivity anomalies
+ (manually using [**Mappy
+ tool**](https://mappy.readthedocs.io/en/master/quick_start.html))
+ using the raster generated in step 2.
+- Mapping of the principal areas showing low emissivity anomalies
+ (manually using [**Mappy
+ tool**](https://mappy.readthedocs.io/en/master/quick_start.html))
+ using the raster generated in step 2.
+ - Linking the high- and low-emissivity areas to the main geologic
+ structures mapped in the previous hands-on (with Ivan)
+- Relate the high- and low-emissivity to main mineralogical units.
+- Automated mapping of high emissivity areas (using the [**Raster
+calculator
+tool**](https://docs.qgis.org/2.18/en/docs/user_manual/working_with_raster/raster_calculator.html))
+
+
+- Using the **[Raster calculator
+    tool](https://docs.qgis.org/2.18/en/docs/user_manual/working_with_raster/raster_calculator.html)**
+    as shown in step 2, it is possible to generate a new raster that
+    automatically includes only the pixels with emissivity higher than
+    the average value.
+- Automated mapping of low emissivity areas (using the [**Raster
+calculator
+tool**](https://docs.qgis.org/2.18/en/docs/user_manual/working_with_raster/raster_calculator.html))
+- Using the **[Raster calculator
+    tool](https://docs.qgis.org/2.18/en/docs/user_manual/working_with_raster/raster_calculator.html)**
+    as shown in step 2, it is possible to generate a new raster that
+    automatically includes only the pixels with emissivity lower than
+    the average value.
+- Comparison between results obtained with manual vs automated mapping.
+-   Compare how the areas mapped in the two new rasters automatically
+    generated in step 7 and 8 match with the manually mapped areas with
+    the [**Mappy
+    tool**](https://mappy.readthedocs.io/en/master/quick_start.html) in
+    step 3 and 4.
+- Identification and mapping of contacts between different units of the
+mapping area
+- Establishment of a simplified sequence of events (geologic history)
+in the mapping area.
+
+### Expected deliverable
+
+-   Simplified geologic and mineralogic map of the study area.
+    -   Identification of regional wrinkle ridges, local fractures
+        suites and 3 types of volcanic structures.
+    -   Identification of at least four units: basement materials,
+        regional plains, recent volcanic flows and crater ejecta.
+    -   Identification of low and high emissivity areas and link with
+        main mineralogical units
+
+### Delivery method
+TO BE CLARIFIED DURING THE SCHOOL
 
 Relevant references are included below.
 
