@@ -33,6 +33,7 @@ The timetable of the school is available at:
 
 ### Data downloads
 
+* Mappy/OpenCraterTool map package - https://zenodo.org/doi/10.5281/zenodo.10477754
 * Vesta map package - https://zenodo.org/doi/10.5281/zenodo.10489225
 * Venus map package -
 * Ganymede map package - https://zenodo.org/doi/10.5281/zenodo.10515746
