@@ -8,7 +8,7 @@ https://astrogeology.usgs.gov/search/map/Ganymede/Voyager-Galileo/Ganymede_Voyag
 
 ## Data package availability 
 
-Zenodo link TBA
+https://zenodo.org/doi/10.5281/zenodo.10515746
 
 ## Coordinate Reference Systme (CRS)
 
