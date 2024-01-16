@@ -5,9 +5,10 @@ Raster data from USGS Astrogeology, see references below, derived from:
 ## Original acess URL
 
 TBA 
+
 ## Data package availability 
 
-Zenodo link TBA
+https://zenodo.org/doi/10.5281/zenodo.10518334
 
 ## Coordinate Reference Systme (CRS)
 
