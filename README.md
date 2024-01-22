@@ -16,6 +16,7 @@ Materials are divided by topic/block with descriptive names:
 - Venus - on [venus](venus/README.md)
 - Ganymede - on [ganymede](ganymede/README.md)
 - Small (irregular) bodies - on [small-bodies](small-bodies/README.md)
+- Seminars (multiple topics, see [programme](https://www.planetarymapping.eu/425/program.html)) - on [seminars](seminars/README.md)
 
 ## Agenda
 
