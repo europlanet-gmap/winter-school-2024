@@ -95,7 +95,7 @@ Penasa, L., Massironi, M., Naletto, G., Simioni, E., Ferrari, S., Pajola, M., Lu
 
 Thomas, N., Sierks, H., Barbieri, C., Lamy, P. L., Rodrigo, R., Rickman, H., Koschny, D., Keller, H. U., Agarwal, J., A’Hearn, M. F., Angrilli, F., Auger, A.-T., Barucci, M. A., Bertaux, J.-L., Bertini, I., Besse, S., Bodewits, D., Cremonese, G., da Deppo, V., … Wenzel, K.-P. (2015). The morphological diversity of comet 67P/Churyumov-Gerasimenko. Science, 1(January). https://doi.org/10.1126/science.aaa0440
 
-### Othe small bodies: Geology and mapping
+### Other small bodies: Geology and mapping
 
 Bennett, C. A., Dellagiustina, D. N., Becker, K. J., Becker, T. L., Edmundson, K. L., Golish, D. R., Bennett, R. J., Burke, K. N., Cue, C. N. U., Clark, B. E., Contreras, J., Deshapriya, J. D. P., Drouet, C., Fitzgibbon, G., Jawin, E. R., Nolan, T. Q., Porter, N. A., Riehl, M. M., Roper, L., … Lauretta, D. S. (2020). A high-resolution global basemap of ( 101955 ) Bennu. Icarus, xxxx, 113690. https://doi.org/10.1016/j.icarus.2020.113690
 
