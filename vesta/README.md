@@ -4,4 +4,13 @@ The hands-on will be based on a pre-produced QGIS project. Data layers are descr
 
 Relevant references are included below.
 
+# Assignments
+
+* __All__: complete (e.g. symbols for contacts and linear features) and plot (A4) the geologic map of Marcia crater with legend.
+
+* __Mapping exercise, option A__: Are there other units / linear or punctual features you think are relevant to be changed or added in the geologic map of Marcia?   Update the geologic map and describe it in a pdf document (text, images: 1-2 pages) 
+
+* __Mapping exercise, option B__: Draft a geologic mapping of Calpurnia crater (NE of Marcia),  following the observation we applied on Marcia.  Describe what you did in a pdf document (text,images: 1-2 pages)
+
+
 # References
