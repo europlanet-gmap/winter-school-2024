@@ -19,14 +19,14 @@ see also https://openplanetary.discourse.group/t/opencratertool-open-source-crat
 
 Courtesy R. Wagner (VESTA/DAWN hands-on team)
 
-Basic description of the procedure and presentation of data
+## Basic description of the procedure and presentation of data
 
 (*)Arvidson, R., Boyce, J., Chapman, C., Cintala, M., Fulchignoni, M., Moore, H., Neukum, G.,
 Schultz, P., Soderblom, L., Strom, B., Woronow, A., Young, R., 1979. Standard techniques for
 presentation and analysis of crater size-frequency data. Icarus 37, 467–474.
 (*) = CRATER ANALYSIS TECHNIQUES WORKING GROUP
 
-Development of the theory: the lunar case and the terrestrial planets (selected paper or book
+## Development of the theory: the lunar case and the terrestrial planets (selected paper or book
 chapters)
 
 Neukum, G., Ivanov, B. A., 1994. Crater size distributions and impact probabilities on Earth from
@@ -77,14 +77,15 @@ Icarus 204, 697–715.
 Woronow, A., 1978. A general cratering-history model and its implications for the lunar highlands.
 Icarus 34, 76–88.
 
-Special topic: secondary craters
+## Special topic: secondary craters
 
 Bierhaus, E. B., McEwen, A. S., Robbins, S. J., Singer, K. N., Dones L, Kirchoff, M. R., Williams, J.-
 P., 2018. Secondary craters and ejecta across the solar system: Populations and effects on impact-
 crater-based chronologies. Meteor. Planet. Sci. 53 (4), 638–671.
 
-Crater counts in GIS environments (ArcGIS or QGis)
-Above Heyer et al. (2023) + 
+## Crater counts in GIS environments (ArcGIS or QGis)
+
+Heyer, T., Iqbal, W., Oetting, A., Hiesinger, H., van der Bogert, C. H., & Schmedemann, N. (2023). A comparative analysis of global lunar crater catalogs using OpenCraterTool–An open source tool to determine and compare crater size-frequency measurements. Planetary and Space Science, 231, 105687. https://doi.org/10.1016/j.pss.2023.105687
 
 Kneissl, T., van Gasselt, S., Neukum, G., 2011. Map-projection-independent crater size-frequency
 determination in GIS environments – New software tool for ArcGIS. Planet. Space Sci. 59, 1243–
@@ -101,7 +102,7 @@ Riedel, C., Michael, G., Kneissl, T., Orgel, C., Hiesinger, H., van der Bogert, 
 account for crater obliteration effects in crater size-frequency distribution measurements. Earth Space
 Sci. 5, https://doi.org/10.1002/2018EA000383.
 
-Analysis of crater counts (relative and absolute model ages)
+## Analysis of crater counts (relative and absolute model ages)
 
 Michael, G., Neukum, G., 2008. Surface dating: software tool for analysing crater size-frequency
 distributions including those showing partial resurfacing events. Lunar Planet. Sci. Conf. XXXIX,
@@ -114,7 +115,7 @@ measurements: Partial resurfacing events and statistical uncertainty. Earth Plan
 Michael, G. G., Kneissl, T., Neesemann, A., 2016. Planetary surface dating from crater size-frequency
 distribution measurements: Poisson timing analysis. Icarus 277, 279–285.
 
-Crater distributions and surface ages of Vesta
+## Crater distributions and surface ages of Vesta
 
 O’Brien, D. P., Marchi, S., Morbidelli, A., Bottke, W. F., Schenk, P. M., Russell, C. T., Raymond, C.
 A., 2014. Constraining the cratering chronology of Vesta. Planet. Space Sci. 103, 131–142.
@@ -125,7 +126,7 @@ Walter, S. H. G., Neesemann, A., Raymond, C. A., Russell, C. T., 2014. The crate
 chronology and surface ages of (4) Vesta in comparison to smaller asteroids and the ages of HED
 meteorites. Planet. Space Sci. 103, 104–130.
 
-Crater distributions and surface ages of Ceres
+## Crater distributions and surface ages of Ceres
 
 Hiesinger, H., Marchi, S., Schmedemann, N., Schenk, P., Pasckert, J. H., Neesemann, A., O’Brien, D.
 P., Kneissl, T., Ermakov, A. I., Fu, R. R., Bland, M. T., Nathues, A., Platz, T., Williams, D. A.,
