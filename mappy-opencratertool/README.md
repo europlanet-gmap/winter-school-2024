@@ -21,10 +21,10 @@ Courtesy R. Wagner (VESTA/DAWN hands-on team)
 
 ## Basic description of the procedure and presentation of data
 
-(*)Arvidson, R., Boyce, J., Chapman, C., Cintala, M., Fulchignoni, M., Moore, H., Neukum, G.,
+(1)Arvidson, R., Boyce, J., Chapman, C., Cintala, M., Fulchignoni, M., Moore, H., Neukum, G.,
 Schultz, P., Soderblom, L., Strom, B., Woronow, A., Young, R., 1979. Standard techniques for
 presentation and analysis of crater size-frequency data. Icarus 37, 467–474.
-(*) = CRATER ANALYSIS TECHNIQUES WORKING GROUP
+(1) = CRATER ANALYSIS TECHNIQUES WORKING GROUP
 
 ## Development of the theory: the lunar case and the terrestrial planets (selected paper or book
 chapters)
