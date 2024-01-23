@@ -15,7 +15,7 @@ Repository: https://github.com/thomasheyer/OpenCraterTool and (fork) https://git
 
 see also https://openplanetary.discourse.group/t/opencratertool-open-source-crater-mapping-aid-for-size-frequency-distribution-chronology/629
 
-# Additional references
+# Crater chronology references
 
 Courtesy R. Wagner (VESTA/DAWN hands-on team)
 
@@ -133,3 +133,9 @@ P., Kneissl, T., Ermakov, A. I., Fu, R. R., Bland, M. T., Nathues, A., Platz, T.
 Jaumann, R., Castillo-Rogez, J. C., Ruesch, O., Schmidt, B., Park, R. S., Preusker, F., Buczkowski, D.
 L., Russell, C. T., Raymond, C. A., 2016. Cratering on Ceres: Implications for its crust and avolution.
 Science 353, doi:10./1126/science.aaf4759.
+
+# Additional links and resources
+
+* https://github.com/aprossi/impact-cratering
+  * see also https://aprossi.eu/content/impact-cratering/
+* https://impacts.wiki
