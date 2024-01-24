@@ -20,9 +20,11 @@ Materials are divided by topic/block with descriptive names:
 
 ## Agenda
 
-The timetable of the school is available at:
+The timetable of the school (with access to presentation material an videos) is available at:
 
 [https://www.planetarymapping.eu](https://www.planetarymapping.eu/425/program.html)
+
+Videos at: [2024 Winter School videos](https://www.planetarymapping.eu/430/asynchronous-lessons.html)
 
 ## Downloads
 
