@@ -40,7 +40,7 @@ Videos at: [2024 Winter School videos](https://www.planetarymapping.eu/430/async
 * Vesta map package - https://zenodo.org/doi/10.5281/zenodo.10489225
 * Venus map package - https://zenodo.org/doi/10.5281/zenodo.10518334
 * Ganymede map package - https://zenodo.org/doi/10.5281/zenodo.10515746
-* (OPTIONAL) small (irregular) bodies map package - [short-term link](https://vrgeoscience-my.sharepoint.com/personal/david_vrgeoscience_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdavid%5Fvrgeoscience%5Fcom%2FDocuments%2FMatteo&ga=1 )
+* (OPTIONAL) small (irregular) bodies map package - [short-term link](https://vrgeoscience-my.sharepoint.com/:f:/p/david/Eq_hCi04GP9Pk83e4hK8vDIBi_1seQiyZhPxHMKRAPP_EQ?e=Oz6fbM)
  
 ## Additional resources
 
