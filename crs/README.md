@@ -43,7 +43,7 @@ Some examples on:
 * Proj - https://proj.org
 * GMT - https://www.generic-mapping-tools.org
   * e.g. https://docs.generic-mapping-tools.org/6.2/cookbook/map-projections.html#jq
-* AiGIS (tool for Small Bodies) https://arcspace.jp/aigis:top see also https://www.hou.usra.edu/meetings/lpsc2024/pdf/1877.pdf
+* PyAiGIS (tool for Small Bodies) https://arcspace.jp/doku.php?id=aigis2:top see also https://www.hou.usra.edu/meetings/lpsc2024/pdf/1877.pdf
 
 
 
